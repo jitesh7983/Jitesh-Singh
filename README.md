@@ -20,7 +20,7 @@ From crafting small fun games to working on Salesforce-based automation, I enjoy
 
 ### 🚀 Featured Projects
 - 🎮 **[Rock Paper Scissors Game](https://jitesh7983.github.io/weather-app-js/weather-app-js/index.html)** – A fun, interactive game built with HTML, CSS, and JavaScript.  
-- 🌐 **[Portfolio Website](https://jitesh7983.github.io/Game/js_projects/index.html)** – My personal portfolio showcasing projects and skills.  
+- 🌐 **[Portfolio Website](https://jitesh7983.github.io/professionalwork/NewPort/index.html)** – My personal portfolio showcasing projects and skills.  
 - ☁ **Salesforce Vision Motor Project** – Built as part of the Salesforce AgentBlazer Champion Program.
 
 ---
